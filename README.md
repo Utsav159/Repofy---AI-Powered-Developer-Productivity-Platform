@@ -144,8 +144,3 @@ Repofy/
 └── README.md
 ```
 
-## 👨‍💻 Author
-
-**Utsav Bhardwaj**
-
-GitHub: https://github.com/Utsav159
